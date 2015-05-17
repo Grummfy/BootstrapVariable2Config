@@ -1,0 +1,21 @@
+{
+    "name": "Grummfy/BootstrapVariable2Config",
+    "description": "Convert a variable.less to a config.json file for bootstrap css framework",
+    "minimum-stability": "stable",
+    "license": "LGPL",
+    "keywords": ["bootstrap"],
+    "authors": [
+        {
+            "name": "Grummfy",
+            "email": "me@grummfy.be"
+        }
+    ],
+    "require-dev": {
+        "atoum/atoum" : "dev-master"
+    },
+    "autoload"  : {
+        "psr-4": {
+            "Grummfy\\BVC\\": "src/libs"
+        }
+    }
+}
