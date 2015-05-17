@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Grummfy/BootstrapVariable2Config.svg)](https://travis-ci.org/Grummfy/BootstrapVariable2Config)
+
 # BootstrapVariable2Config
 Convert a variable.less to a config.json file for bootstrap css framework.
 The idea is to load the variables.less file and Convert it to a config.json file uploadable on http://getbootstrap.com/customize/
